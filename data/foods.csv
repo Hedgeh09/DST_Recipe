@@ -1,0 +1,64 @@
+﻿FoodName,FoodName_zh,Health,Hunger,Sanity,Duration,CookingTime,Priority
+Asparagus Soup,芦笋汤,20,18.75,5,15,10,10
+Bacon and Eggs,培根蛋,20,75,5,20,40,10
+Banana Pop,香蕉冰棒,20,12.5,33,10,10,20
+Bisque,浓汤,60,18.75,5,10,20,30
+Butter Muffin,蝴蝶玛芬,20,37.5,5,15,40,1
+California Roll,加州寿司卷,20,37.5,10,10,10,20
+Caviar,鱼子酱,3,12.5,33,10,40,20
+Ceviche,酸橘汁腌鱼,20,25,5,10,10,20
+Coffee,咖啡,3,9.375,-5,10,10,30
+Creamy Potato Puree,奶油土豆泥,20,37.5,33,15,20,20
+Dragonpie,火龙果派,40,75,5,15,40,1
+Fancy Spiralled Tubers,旋风薯塔,3,37.5,15,10,15,10
+Feijoada,黑豆饭,20,75,15,8,70,30
+Fish Tacos,鱼塔可,20,37.5,5,6,10,10
+Fishsticks,鱼排,40,37.5,5,10,40,10
+Fist Full of Jam,果酱泥,3,37.5,5,15,10,0
+Flower Salad,花瓣沙拉,40,12.5,5,6,10,10
+Fresh Fruit Crepes,鲜果可丽饼,60,150,15,10,20,30
+Froggle Bunwich,蛙腿三明治,20,37.5,5,15,40,1
+Fruit Medley,水果拼盘,20,25,5,6,10,0
+Guacamole,鼹梨沙拉酱,20,37.5,0,10,10,10
+Gummy Cake,软糖蛋糕,-3,150,-5,20,40,1
+Hard Shell Tacos,硬壳塔可,20,37.5,5,15,20,1
+Honey Ham,蜂蜜火腿,30,75,5,15,40,2
+Honey Nuggets,蜂蜜肉块,20,37.5,5,15,40,2
+Ice Cream,冰淇淋,0,25,50,3,10,10
+Iced Tea,冰茶,3,12.5,33,6,10,30
+Jelly-O Pop,果冻冰棒,20,12.5,0,3,10,20
+Jellybeans,雷根糖,122(超过2分钟),0,5,从不,50,12
+Kabobs,烤肉串,3,37.5,5,15,40,5
+Lobster Bisque,龙虾浓汤,60,25,10,10,10,30
+Lobster Dinner,龙虾大餐,60,37.5,50,15,20,25
+Mandrake Soup,曼德拉草汤,100,150,5,6,60,10
+Meatballs,肉丸子,3,62.5,5,10,15,-1
+Meaty Stew,炖肉汤,12,150,5,10,15,0
+Melonsicle,西瓜冰,3,12.5,20,3,10,10
+Monster Lasagna,怪物千层面,-20,37.5,-20,6,10,10
+Monster Tartare,鞑靼怪物肉,3,37.5,10,10,20,30
+Mussel Bouillabaise,马赛贻贝汤,20,37.5,15,10,20,30
+Nettle Rolls,荨麻卷,20,25,5,6,10,0
+Pierogi,波兰饺子,40,37.5,5,20,20,5
+Powdercake,粉末蛋糕,-3,0,0,18750,10,10
+Pumpkin Cookies,南瓜饼干,0,37.5,15,10,40,10
+Ratatouille,蔬菜杂烩,3,25,5,15,20,0
+Salsa Fresca,莎莎酱,3,25,33,15,10,20
+Seafood Gumbo,海鲜秋葵汤,40,37.5,20,10,20,10
+Shark Fin Soup,鱼翅汤,40,12.5,-10,10,10,20
+Snake Bone Soup,蛇骨汤,40,25,10,10,20,20
+Spicy Chili,辣椒炖肉,20,37.5,0,10,10,10
+Spicy Vegetable Stinger,辣菜刺,3,25,33,15,10,15
+Steamed Ham Sandwich,清蒸火腿三明治,40,37.5,15,6,40,5
+Stuffed Eggplant,酿茄子,3,37.5,5,15,40,1
+Stuffed Pepper Poppers,酿烤辣椒,30,25,-5,15,40,20
+Surf 'n' Turf,海陆大餐,60,37.5,33,10,10,30
+Sweet Potato Souffle,红薯舒芙蕾,20,37.5,15,10,20,30
+Taffy,太妃糖,-3,25,15,15,40,10
+Tea,茶,3,12.5,33,1( Iced Tea),10,25
+Trail Mix,综合坚果,30,12.5,5,15,10,10
+Tropical Bouillabaisse,马赛热带鱼汤,20,37.5,15,10,40,35
+Turkey Dinner,火鸡大餐,20,75,5,6,60,10
+Unagi,鳗鱼寿司,20,18.8,5,10,10,20
+Waffles,松饼,60,37.5,5,6,10,10
+﻿﻿Wet Goop,失败料理,0,0,0,6,5,-2

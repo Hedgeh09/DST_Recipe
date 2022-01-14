@@ -1,0 +1,81 @@
+﻿FoodName,FoodName_zh,Health,Hunger,Sanity,Duration
+Roasted Birchnut.png,烤白桦坚果,1,9.375,0,6
+Ice.png,冰,0.5,2.3,0,3
+Butterfly Wings.png,蝴蝶翅膀,8,9.375,0,6
+Sweet Potato.png,红薯,1,12.5,0,10
+Seaweed.png,海带,1,9.375,-10,6
+Roasted Seaweed.png,烤海带,3,12.5,0,10
+Roasted Carrot.png,烤萝卜,3,12.5,0,6
+Pumpkin.png,南瓜,3,37.5,0,10
+Popcorn.png,爆米花,3,12.5,0,15
+Mandrake.png,曼德拉草,60,75,0,永不
+Lichen.png,菌藻,3,12,-5,2
+Hot Pumpkin.png,熟南瓜,8,37.5,0,6
+Eggplant.png,茄子,8,25,0,10
+Dried Seaweed.png,干海苔,3,12.5,0,20
+Corn.png,玉米,3,25,0,10
+Cooked Sweet Potato.png,烤红薯,3,12.5,0,6
+Cooked Cactus Flesh.png,烤仙人掌肉,1,12.5,15,10
+Carrot.png,胡萝卜,1,12.5,0,10
+Cactus Flower.png,仙人掌花,8,12.5,5,10
+Cactus Flesh.png,仙人掌肉,-3,12.5,-5,10
+Braised Eggplant.png,炖茄子,20,25,0,6
+Red Cap.png,红蘑菇,-20,12.5,0,10
+Green Cap.png,绿蘑菇,0,12.5,-50,10
+Cooked Red Cap.png,烤红蘑菇,1,0,-10,10
+Cooked Green Cap.png,烤绿蘑菇,-1,0,15,10
+Cooked Blue Cap.png,烤蓝蘑菇,-3,0,10,10
+Blue Cap.png,蓝蘑菇,20,12.5,-15,10
+Honey.png,蜂蜜,3,9.375,0,40
+Monster Meat.png,怪物肉,-20,18.75,-15,6
+Monster Jerky.png,怪物肉干,-3,18.75,-5,20
+Meat.png,大肉,1,25,-10,6
+Jerky.png,肉干,20,25,15,20
+Cooked Monster Meat.png,怪物肉排,-3,18.75,-10,15
+Cooked Meat.png,肉排,3,25,0,10
+Tropical Fish.png,热带鱼,1,12.5,0,3
+Shark Fin.png,鲨鱼鳍,20,25,-15,6
+Raw Fish.png,大鱼肉,1,25,0,3
+Fish Steak.png,大鱼排,20,25,0,6
+Dead Dogfish.png,死狗鱼,1,25,0,6
+Small Jerky.png,小肉干,8,12.5,10,20
+Morsel.png,小肉块,0,12.5,-10,6
+Frog Legs.png,青蛙腿,0,12.5,-10,6
+Fried Drumstick.png,炸鸡腿,1,12.5,0,10
+Drumstick.png,鸡腿,0,12.5,-10,6
+Cooked Morsel.png,烤小肉块,1,12.5,0,10
+Cooked Frog Legs.png,烤青蛙腿,1,12.5,0,10
+Cooked Coconut.png,烤椰子,1,9.375,0,10
+Coconut.png,椰子,0,0,0,20
+Watermelon.png,西瓜,3,12.5,5,8
+Sliced Pomegranate.png,石榴切片,20,12.5,0,3
+Prepared Dragon Fruit.png,火龙果切片,20,12.5,0,3
+Pomegranate.png,石榴,3,9.375,0,6
+Grilled Watermelon.png,烤西瓜,1,12.5,7.5,8
+Extra Smelly Durian.png,特臭榴梿,0,25,-5,6
+Durian.png,榴梿,-3,25,-5,10
+Dragon Fruit.png,火龙果,3,9.375,0,6
+Cooked Coffee Beans.png,烘焙咖啡豆,0,9.375,-5,15
+Cooked Cave Banana.png,烤香蕉,3,12.5,0,6
+Cave Banana.png,香蕉,1,12.5,0,10
+Roasted Berries.png,烤浆果,1,12.5,0,3
+Coffee Beans.png,咖啡豆,0,9.375,0,6
+Berries.png,浆果,0,9.375,0,6
+Dried Jellyfish.png,海蜇皮,10,18.75,0,20
+Cooked Jellyfish.png,烤水母圈,10,18.75,0,10
+Mussel.png,贻贝,0,12.5,-15,3
+Limpets.png,帽贝,0,12.5,-10,6
+Fish.png,鱼,1,12.5,0,3
+Fish Morsel.png,小鱼肉,1,12.5,0,3
+Eel.png,鳗鱼,3,10,0,6
+Cooked Mussel.png,烤贻贝,1,12.5,0,10
+Cooked Limpets.png,烤帽贝,1,12.5,0,10
+Cooked Fish.png,烤鱼,1,12.5,0,6
+Cooked Fish Morsel.png,烤小鱼肉,1,12.5,0,6
+Cooked Eel.png,烤鳗鱼,8,13,0,10
+Butter.png,奶油,40,25,0,40
+Electric Milk.png,活力牛奶,3,12.5,5,6
+Tallbird Egg.png,高脚鸟蛋,3,25,0,永不
+Fried Tallbird Egg.png,煎高脚鸟蛋,0,37.5,0,6
+Egg.png,蛋,0,9.375,0,10
+Cooked Egg.png,煎蛋,0,12.5,0,6
